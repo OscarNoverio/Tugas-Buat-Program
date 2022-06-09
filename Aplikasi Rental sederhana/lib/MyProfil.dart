@@ -24,7 +24,7 @@ class MyProfil extends StatelessWidget {
                     width: 200,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(100),
-                      image: DecorationImage(image: AssetImage('images/oscar.jpg'),
+                      image: DecorationImage(image: AssetImage('images/oscar.jpeg'),
                       fit: BoxFit.cover
                       ),
                     ),
