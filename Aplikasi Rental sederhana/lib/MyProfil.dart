@@ -24,7 +24,7 @@ class MyProfil extends StatelessWidget {
                     width: 200,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(100),
-                      image: DecorationImage(image: AssetImage('images/andy.jpg'),
+                      image: DecorationImage(image: AssetImage('images/oscar.jpg'),
                       fit: BoxFit.cover
                       ),
                     ),
@@ -38,7 +38,7 @@ class MyProfil extends StatelessWidget {
             child: Column(
               children: <Widget>[
                 SizedBox(height: 20),
-                Text('I Ketut Andy Septawan',
+                Text('I Oscar Noverio',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
